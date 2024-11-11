@@ -1,8 +1,8 @@
 # Portfolio-iOS
 
 ## Lingua 
-- [🇧🇷 PT - BR](##Utarch)
-- [🇺🇸 EUA](##Utarch)
+- [🇧🇷 PT - BR](#Utarch)
+- [🇺🇸 EUA](#Utarch)
 
 ## Index
 - [Apps](#Utarch)
