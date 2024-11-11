@@ -83,7 +83,6 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 - [Repositories](#Repositories)
 
 
-
 ## Utarch <span id="utarch-2"></span>
 ![1-18-members _Presentation_Challenge_reports 001](https://github.com/user-attachments/assets/d7a37524-f89b-4acb-aab1-a94f6b0079ba)
 
