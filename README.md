@@ -5,7 +5,7 @@
 - [Apps in AppStore](#DoubleCards)
 - [Award](#Award)
 - [Certificates](#Certificates)
-- [Repositories](#)
+- [Repositories](#Repositories)
 
 ## Utarch
 ![1-18-members _Presentation_Challenge_reports 001](https://github.com/user-attachments/assets/d7a37524-f89b-4acb-aab1-a94f6b0079ba)
@@ -59,10 +59,10 @@
 ## Repositories
 
  - [Utarch](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Skynet](https://github.com/matiassingers/awesome-readme)
- - [BrainQ]([https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project](https://github.com/MoysesAz/BrainQ))
- - [Operation SnowBomb](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- - [FocusObservation](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Skynet](https://github.com/MoysesAz/Skynet)
+ - [BrainQ](https://github.com/MoysesAz/BrainQ)
+ - [Operation SnowBomb](https://github.com/MoysesAz/OperationSnowBomb)
+ - [FocusObservation](https://github.com/MoysesAz/FocusObservation)
  - [Quiet](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
  - [RaidUP](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
  - [News](https://github.com/MoysesAz/BornLogic)
