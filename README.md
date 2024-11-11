@@ -1,5 +1,9 @@
 # Portfolio-iOS
 
+## Lingua 
+- [🇧🇷 PT - BR](##Utarch)
+- [🇺🇸 EUA](##Utarch)
+
 ## Index
 - [Apps](#Utarch)
 - [Apps in AppStore](#DoubleCards)
