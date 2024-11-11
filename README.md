@@ -9,7 +9,7 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 
 ## Índice
 - [Aplicativos](#utarch-1)
-- [Aplicativos publicados na loja](#doublecards-1)
+- [Aplicativos publicados na AppStory](#doublecards-1)
 - [Premiações](#Premiações)
 - [Certificados](#Certificados)
 - [Repositorios](#Repositorios)
@@ -55,17 +55,15 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 
 ## Premiações
 ![1-18-members _Presentation_Challenge_reports 015](https://github.com/user-attachments/assets/b9966178-2de0-4f72-951a-ca79eced8ec5)
-
+ 
 
 ## Certificados
 ![1-18-members _Presentation_Challenge_reports 016](https://github.com/user-attachments/assets/f8907bfc-8786-41c4-b669-c885c4d0fc27)
 ![sdfsdf 001](https://github.com/user-attachments/assets/e07fcd6d-7514-4bf5-a1d1-8a11fd59168d)
-
 ![reworks 002](https://github.com/user-attachments/assets/e4574ca6-8e83-4e35-a4cc-b5cd1fb91440)
 
 
 ## Repositórios
-
  - [Utarch](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Skynet](https://github.com/MoysesAz/Skynet)
  - [BrainQ](https://github.com/MoysesAz/BrainQ)
@@ -82,15 +80,9 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 
 
 
-
-
-
-
-
-
 ## Index
 - [Apps](#utarch-2)
-- [Apps in AppStore](#DoubleCards)
+- [Apps in AppStore](#doublecards-2)
 - [Award](#Award)
 - [Certificates](#Certificates)
 - [Repositories](#Repositories)
@@ -126,7 +118,7 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 ![1-18-members _Presentation_Challenge_reports 009](https://github.com/user-attachments/assets/80728ebe-0f0e-4ffa-b96f-d3b57915c78b)
 
 
-## DoubleCards
+## DoubleCards<span id="doublecards-2"></span>
 ![1-18-members _Presentation_Challenge_reports 010](https://github.com/user-attachments/assets/f608ad05-207a-4af9-bad8-2f144ec2408c)
 
 ## Ballo
