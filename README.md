@@ -4,16 +4,15 @@ Sejam bem-vindos, recrutadores e desenvolvedores, ao meu portfólio iOS! Me cham
 
 Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azevedo, and here I share projects and experiences that demonstrate my skills and passion for developing for the Apple platform. Feel free to explore and learn a little more about my work!
 
-- [🇧🇷 PT - BR](#Utarch)
-- [🇺🇸 EUA](#Utarch)
+- [🇧🇷 PT - BR](#utarch-1)
+- [🇺🇸 EUA](#Index)
 
 ## Índice
 - [Aplicativos](#utarch-1)
-- [Aplicativos publicados na loja](#DoubleCards)
-- [Premiações e Reconhecimentos](#Award)
-- [Certificados](#Certificates)
-- [Repositorios](#Repositories)
-
+- [Aplicativos publicados na loja](#doublecards-1)
+- [Premiações](#Premiações)
+- [Certificados](#Certificados)
+- [Repositorios](#Repositorios)
 
 ## Utarch <span id="utarch-1"></span>
 ![1-18-members _Presentation_Challenge_reports 001](https://github.com/user-attachments/assets/d7a37524-f89b-4acb-aab1-a94f6b0079ba)
@@ -43,7 +42,7 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 ![1-18-members _Presentation_Challenge_reports 009](https://github.com/user-attachments/assets/80728ebe-0f0e-4ffa-b96f-d3b57915c78b)
 
 
-## DoubleCards
+## DoubleCards <span id="doublecards-1"></span>
 ![1-18-members _Presentation_Challenge_reports 010](https://github.com/user-attachments/assets/f608ad05-207a-4af9-bad8-2f144ec2408c)
 
 ## Ballo
@@ -54,18 +53,18 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 ![1-18-members _Presentation_Challenge_reports 013](https://github.com/user-attachments/assets/5f64fa8d-96b4-4f1c-ac35-066f5ceb7563)
 ![1-18-members _Presentation_Challenge_reports 014](https://github.com/user-attachments/assets/c5c78ce3-e509-44f8-a76d-4cf50f630238)
 
-## Awards 
+## Premiações
 ![1-18-members _Presentation_Challenge_reports 015](https://github.com/user-attachments/assets/b9966178-2de0-4f72-951a-ca79eced8ec5)
 
 
-## Certificates
+## Certificados
 ![1-18-members _Presentation_Challenge_reports 016](https://github.com/user-attachments/assets/f8907bfc-8786-41c4-b669-c885c4d0fc27)
 ![sdfsdf 001](https://github.com/user-attachments/assets/e07fcd6d-7514-4bf5-a1d1-8a11fd59168d)
 
 ![reworks 002](https://github.com/user-attachments/assets/e4574ca6-8e83-4e35-a4cc-b5cd1fb91440)
 
 
-## Repositories
+## Repositórios
 
  - [Utarch](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Skynet](https://github.com/MoysesAz/Skynet)
@@ -78,6 +77,13 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
  - [DoubleCards](https://github.com/MoysesAz/FlashCard)
  - [Ballo]()
  - [Galton Board](https://github.com/MoysesAz/GaltonBoard)
+
+
+
+
+
+
+
 
 
 
