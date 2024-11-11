@@ -56,12 +56,10 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 ## Premiações
 ![1-18-members _Presentation_Challenge_reports 015](https://github.com/user-attachments/assets/b9966178-2de0-4f72-951a-ca79eced8ec5)
  
-
 ## Certificados
 ![1-18-members _Presentation_Challenge_reports 016](https://github.com/user-attachments/assets/f8907bfc-8786-41c4-b669-c885c4d0fc27)
 ![sdfsdf 001](https://github.com/user-attachments/assets/e07fcd6d-7514-4bf5-a1d1-8a11fd59168d)
 ![reworks 002](https://github.com/user-attachments/assets/e4574ca6-8e83-4e35-a4cc-b5cd1fb91440)
-
 
 ## Repositórios
  - [Utarch](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
@@ -77,16 +75,12 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
  - [Galton Board](https://github.com/MoysesAz/GaltonBoard)
 
 
-
-
-
 ## Index
 - [Apps](#utarch-2)
 - [Apps in AppStore](#doublecards-2)
 - [Award](#Award)
 - [Certificates](#Certificates)
 - [Repositories](#Repositories)
-
 
 
 
@@ -132,13 +126,10 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 ## Awards 
 ![1-18-members _Presentation_Challenge_reports 015](https://github.com/user-attachments/assets/b9966178-2de0-4f72-951a-ca79eced8ec5)
 
-
 ## Certificates
 ![1-18-members _Presentation_Challenge_reports 016](https://github.com/user-attachments/assets/f8907bfc-8786-41c4-b669-c885c4d0fc27)
 ![sdfsdf 001](https://github.com/user-attachments/assets/e07fcd6d-7514-4bf5-a1d1-8a11fd59168d)
-
 ![reworks 002](https://github.com/user-attachments/assets/e4574ca6-8e83-4e35-a4cc-b5cd1fb91440)
-
 
 ## Repositories
 
