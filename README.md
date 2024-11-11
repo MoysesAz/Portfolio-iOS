@@ -2,7 +2,7 @@
 
 ## Index
 - [Apps](#Utarch)
-- [AppStore](#DoubleCards)
+- [Apps in AppStore](#DoubleCards)
 - [Award](#Award)
 - [Certificates](#Certificates)
 
