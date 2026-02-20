@@ -132,13 +132,13 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 
 ## Repositories
 
- - [Utarch](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Utarch](https://github.com/MoysesAz/Utarch)
  - [Skynet](https://github.com/MoysesAz/Skynet)
  - [BrainQ](https://github.com/MoysesAz/BrainQ)
  - [Operation SnowBomb](https://github.com/MoysesAz/OperationSnowBomb)
  - [FocusObservation](https://github.com/MoysesAz/FocusObservation)
  - [Quiet](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- - [RaidUP](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [RaidUP](https://github.com/CaioFaSoares/RaidUpp/tree/dev)
  - [News](https://github.com/MoysesAz/BornLogic)
  - [DoubleCards](https://github.com/MoysesAz/FlashCard)
  - [Ballo]()
