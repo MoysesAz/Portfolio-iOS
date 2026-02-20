@@ -14,9 +14,15 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 - [Premiações](#Premiações)
 - [Repositorios](#Repositorios)
 
-## Último Teste Técnico - https://github.com/MoysesAz/FractalTT
-![nome](https://github.com/user-attachments/assets/7d6beeb0-8cc3-409a-8602-56ecd80bf9aa)
+## 🚀 Último Teste Técnico
+
+<p align="center">
+  <a href="https://github.com/MoysesAz/FractalTT">
+    <img src="https://img.shields.io/badge/Acessar%20Repositório-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 ![nome](https://github.com/user-attachments/assets/1874eebc-00ea-4ce6-9a48-e3e1d4c96374)
+![nome](https://github.com/user-attachments/assets/7d6beeb0-8cc3-409a-8602-56ecd80bf9aa)
 
 
 ## Certificados
