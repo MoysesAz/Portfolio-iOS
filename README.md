@@ -8,10 +8,10 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 - [🇺🇸 EUA](#Index)
 
 ## Índice
-- [Aplicativos](#utarch-1)
+- [Certificados](#Certificados)
+- [Aplicativos](#Ballo)
 - [Aplicativos publicados na AppStory](#doublecards-1)
 - [Premiações](#Premiações)
-- [Certificados](#Certificados)
 - [Repositorios](#Repositorios)
 
 ## Certificados
@@ -54,11 +54,12 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 ## RaidUP  
 ![1-18-members _Presentation_Challenge_reports 008](https://github.com/user-attachments/assets/b6c27e74-3d78-462b-88be-21794f255508)
 
+## DoubleCards <span id="doublecards-1"></span>
+![1-18-members _Presentation_Challenge_reports 010](https://github.com/user-attachments/assets/f608ad05-207a-4af9-bad8-2f144ec2408c)
+
 ## Skynet
 ![1-18-members _Presentation_Challenge_reports 002](https://github.com/user-attachments/assets/b66a7572-9a53-487b-97d9-8567b22d5571)
 
-## DoubleCards <span id="doublecards-1"></span>
-![1-18-members _Presentation_Challenge_reports 010](https://github.com/user-attachments/assets/f608ad05-207a-4af9-bad8-2f144ec2408c)
 
 ## Repositórios
  - [Utarch](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
