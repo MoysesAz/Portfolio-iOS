@@ -77,8 +77,8 @@ https://github.com/MoysesAz/FractalTT
 - [BrainQ](https://github.com/MoysesAz/BrainQ)
 - [Operation SnowBomb](https://github.com/MoysesAz/OperationSnowBomb)
 - [FocusObservation](https://github.com/MoysesAz/FocusObservation)
-- [Quiet](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-- [RaidUP](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- [Quiet](https://github.com/milenaalcantara/Quiet)
+- [RaidUP](https://github.com/RaidUpp/RaidUpp)
 - [DoubleCards](https://github.com/MoysesAz/FlashCard)
 - [Skynet](https://github.com/MoysesAz/Skynet)
 
