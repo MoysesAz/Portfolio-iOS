@@ -72,7 +72,7 @@ https://github.com/MoysesAz/FractalTT
 - [Último Teste Técnico](https://github.com/MoysesAz/FractalTT)
 - [Ballo](https://github.com/Ballo-Team/ballo-ios)
 - [Galton Board](https://github.com/MoysesAz/GaltonBoard)
-- [Utarch](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+- [Utarch](https://github.com/MoysesAz/Utarch)
 - [News](https://github.com/MoysesAz/BornLogic)
 - [BrainQ](https://github.com/MoysesAz/BrainQ)
 - [Operation SnowBomb](https://github.com/MoysesAz/OperationSnowBomb)
