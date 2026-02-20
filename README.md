@@ -14,9 +14,17 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 - [Certificados](#Certificados)
 - [Repositorios](#Repositorios)
 
+## Certificados
+![1-18-members _Presentation_Challenge_reports 016](https://github.com/user-attachments/assets/f8907bfc-8786-41c4-b669-c885c4d0fc27)
+![sdfsdf 001](https://github.com/user-attachments/assets/e07fcd6d-7514-4bf5-a1d1-8a11fd59168d)
+![reworks 002](https://github.com/user-attachments/assets/e4574ca6-8e83-4e35-a4cc-b5cd1fb91440)
+
 ## Ballo
 ![1-18-members _Presentation_Challenge_reports 011](https://github.com/user-attachments/assets/71cb1d96-9361-415c-b3b2-1699843a75c8)
 ![1-18-members _Presentation_Challenge_reports 012](https://github.com/user-attachments/assets/5866dd83-2bee-4fb9-9e22-b6ddcf9506e4)
+
+## Premiações
+![1-18-members _Presentation_Challenge_reports 015](https://github.com/user-attachments/assets/b9966178-2de0-4f72-951a-ca79eced8ec5)
 
 ## Galton Board
 ![1-18-members _Presentation_Challenge_reports 013](https://github.com/user-attachments/assets/5f64fa8d-96b4-4f1c-ac35-066f5ceb7563)
@@ -24,6 +32,9 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 
 ## Utarch <span id="utarch-1"></span>
 ![1-18-members _Presentation_Challenge_reports 001](https://github.com/user-attachments/assets/d7a37524-f89b-4acb-aab1-a94f6b0079ba)
+
+## News
+![1-18-members _Presentation_Challenge_reports 009](https://github.com/user-attachments/assets/80728ebe-0f0e-4ffa-b96f-d3b57915c78b)
 
 ## llustra
 ![1-18-members _Presentation_Challenge_reports 003](https://github.com/user-attachments/assets/0ef88c53-1f74-4032-bff4-07dc9c295b88)
@@ -43,22 +54,11 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 ## RaidUP  
 ![1-18-members _Presentation_Challenge_reports 008](https://github.com/user-attachments/assets/b6c27e74-3d78-462b-88be-21794f255508)
 
-## News
-![1-18-members _Presentation_Challenge_reports 009](https://github.com/user-attachments/assets/80728ebe-0f0e-4ffa-b96f-d3b57915c78b)
-
 ## Skynet
 ![1-18-members _Presentation_Challenge_reports 002](https://github.com/user-attachments/assets/b66a7572-9a53-487b-97d9-8567b22d5571)
 
 ## DoubleCards <span id="doublecards-1"></span>
 ![1-18-members _Presentation_Challenge_reports 010](https://github.com/user-attachments/assets/f608ad05-207a-4af9-bad8-2f144ec2408c)
-
-## Premiações
-![1-18-members _Presentation_Challenge_reports 015](https://github.com/user-attachments/assets/b9966178-2de0-4f72-951a-ca79eced8ec5)
- 
-## Certificados
-![1-18-members _Presentation_Challenge_reports 016](https://github.com/user-attachments/assets/f8907bfc-8786-41c4-b669-c885c4d0fc27)
-![sdfsdf 001](https://github.com/user-attachments/assets/e07fcd6d-7514-4bf5-a1d1-8a11fd59168d)
-![reworks 002](https://github.com/user-attachments/assets/e4574ca6-8e83-4e35-a4cc-b5cd1fb91440)
 
 ## Repositórios
  - [Utarch](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
