@@ -14,16 +14,12 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 - [Premiações](#Premiações)
 - [Repositorios](#Repositorios)
 
-## 🚀 Último Teste Técnico
+## Último Teste Técnico - https://github.com/MoysesAz/FractalTT
 
-<p align="center">
-  <a href="https://github.com/MoysesAz/FractalTT">
-    <img src="https://img.shields.io/badge/Acessar%20Repositório-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 ![nome](https://github.com/user-attachments/assets/1874eebc-00ea-4ce6-9a48-e3e1d4c96374)
 ![nome](https://github.com/user-attachments/assets/7d6beeb0-8cc3-409a-8602-56ecd80bf9aa)
 
+https://github.com/MoysesAz/FractalTT
 
 ## Certificados
 ![1-18-members _Presentation_Challenge_reports 016](https://github.com/user-attachments/assets/f8907bfc-8786-41c4-b669-c885c4d0fc27)
@@ -141,7 +137,7 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 ![reworks 002](https://github.com/user-attachments/assets/e4574ca6-8e83-4e35-a4cc-b5cd1fb91440)
 
 ## Repositories
-
+ - [Último Teste Técnico](https://github.com/MoysesAz/FractalTT)
  - [Utarch](https://github.com/MoysesAz/Utarch)
  - [Skynet](https://github.com/MoysesAz/Skynet)
  - [BrainQ](https://github.com/MoysesAz/BrainQ)
