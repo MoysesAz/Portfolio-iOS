@@ -16,6 +16,8 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 
 ## Último Teste Técnico - https://github.com/MoysesAz/FractalTT
 ![nome](https://github.com/user-attachments/assets/7d6beeb0-8cc3-409a-8602-56ecd80bf9aa)
+![nome](https://github.com/user-attachments/assets/1874eebc-00ea-4ce6-9a48-e3e1d4c96374)
+
 
 ## Certificados
 ![1-18-members _Presentation_Challenge_reports 016](https://github.com/user-attachments/assets/f8907bfc-8786-41c4-b669-c885c4d0fc27)
