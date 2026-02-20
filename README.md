@@ -25,9 +25,6 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 ## Utarch <span id="utarch-1"></span>
 ![1-18-members _Presentation_Challenge_reports 001](https://github.com/user-attachments/assets/d7a37524-f89b-4acb-aab1-a94f6b0079ba)
 
-## Skynet
-![1-18-members _Presentation_Challenge_reports 002](https://github.com/user-attachments/assets/b66a7572-9a53-487b-97d9-8567b22d5571)
-
 ## llustra
 ![1-18-members _Presentation_Challenge_reports 003](https://github.com/user-attachments/assets/0ef88c53-1f74-4032-bff4-07dc9c295b88)
 
@@ -49,6 +46,8 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 ## News
 ![1-18-members _Presentation_Challenge_reports 009](https://github.com/user-attachments/assets/80728ebe-0f0e-4ffa-b96f-d3b57915c78b)
 
+## Skynet
+![1-18-members _Presentation_Challenge_reports 002](https://github.com/user-attachments/assets/b66a7572-9a53-487b-97d9-8567b22d5571)
 
 ## DoubleCards <span id="doublecards-1"></span>
 ![1-18-members _Presentation_Challenge_reports 010](https://github.com/user-attachments/assets/f608ad05-207a-4af9-bad8-2f144ec2408c)
