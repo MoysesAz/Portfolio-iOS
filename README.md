@@ -14,6 +14,14 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 - [Certificados](#Certificados)
 - [Repositorios](#Repositorios)
 
+## Ballo
+![1-18-members _Presentation_Challenge_reports 011](https://github.com/user-attachments/assets/71cb1d96-9361-415c-b3b2-1699843a75c8)
+![1-18-members _Presentation_Challenge_reports 012](https://github.com/user-attachments/assets/5866dd83-2bee-4fb9-9e22-b6ddcf9506e4)
+
+## Galton Board
+![1-18-members _Presentation_Challenge_reports 013](https://github.com/user-attachments/assets/5f64fa8d-96b4-4f1c-ac35-066f5ceb7563)
+![1-18-members _Presentation_Challenge_reports 014](https://github.com/user-attachments/assets/c5c78ce3-e509-44f8-a76d-4cf50f630238)
+
 ## Utarch <span id="utarch-1"></span>
 ![1-18-members _Presentation_Challenge_reports 001](https://github.com/user-attachments/assets/d7a37524-f89b-4acb-aab1-a94f6b0079ba)
 
@@ -44,14 +52,6 @@ Welcome, recruiters and developers, to my iOS portfolio! My name is Moysés Azev
 
 ## DoubleCards <span id="doublecards-1"></span>
 ![1-18-members _Presentation_Challenge_reports 010](https://github.com/user-attachments/assets/f608ad05-207a-4af9-bad8-2f144ec2408c)
-
-## Ballo
-![1-18-members _Presentation_Challenge_reports 011](https://github.com/user-attachments/assets/71cb1d96-9361-415c-b3b2-1699843a75c8)
-![1-18-members _Presentation_Challenge_reports 012](https://github.com/user-attachments/assets/5866dd83-2bee-4fb9-9e22-b6ddcf9506e4)
-
-## Galton Board
-![1-18-members _Presentation_Challenge_reports 013](https://github.com/user-attachments/assets/5f64fa8d-96b4-4f1c-ac35-066f5ceb7563)
-![1-18-members _Presentation_Challenge_reports 014](https://github.com/user-attachments/assets/c5c78ce3-e509-44f8-a76d-4cf50f630238)
 
 ## Premiações
 ![1-18-members _Presentation_Challenge_reports 015](https://github.com/user-attachments/assets/b9966178-2de0-4f72-951a-ca79eced8ec5)
